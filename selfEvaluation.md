@@ -1,7 +1,7 @@
 # Self Evaluation
 
 1. How confident do you feel in your understanding and fluency with the `for` statement?
-- this was definitely the sectiont that I felt the least confident in. Even though I went through all the exercises and finished them I still dont feel like everything has sunk in, like I could wake up tomorrow and it will all be gone.
+- this was definitely the section that I felt the least confident in. Even though I went through all the exercises and finished them I still dont feel like everything has sunk in, like I could wake up tomorrow and it will all be gone.
 
 2. This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
 - It was hard to combine the concepts that we've learned before with the for statements. I did get to a point where I unproductive struggled but I took a small break and came back and realized I was mising something so simple I overlooked it the first time because I was just tired of staring at the screen. 
